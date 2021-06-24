@@ -197,6 +197,10 @@ form {
   color: white;
 }
 
+.card__image__img {
+  height: 200px;
+}
+
 @media (min-width: 768px) {
   .main-header__nav {
     display: flex;
